@@ -1,0 +1,23 @@
+# Module Library
+node_modules/
+
+# Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
+.grunt
+
+
+# Compiled binary addons (http://nodejs.org/api/addons.html)
+build/Release
+
+# Dependency directory
+# https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git
+node_modules
+
+#dist folder
+dist
+
+
+#VSCode metadata
+.vscode
+
+# Mac files
+.DS_Store
